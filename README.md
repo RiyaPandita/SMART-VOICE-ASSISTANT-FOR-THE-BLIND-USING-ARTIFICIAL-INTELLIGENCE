@@ -55,7 +55,7 @@ To improve autonomy and self-reliance for the visually impaired and reduce their
 - Improve accuracy with enhanced datasets and model tuning  
 
 ## 📂 Code and Resources
-[Google Colab Notebook](https://colab.research.google.com/drive/11CjQPhBBnAzepRiPLWzEq5nakTbHCIR6?usp=sharing)
+[Google Colab Notebook](./AIProject.ipynb)
 
 ## 📚 References
 Refer to the full list of 14 academic and web sources in the accompanying PDF document.
